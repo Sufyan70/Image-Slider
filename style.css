@@ -1,0 +1,21 @@
+*body{
+     margin: 0%;
+     padding:  0%;
+}
+.img-box{
+    padding-top: 2%;
+    height: 300px;
+    width: 500px;
+    padding-left: 450px;
+}
+.img-box img{
+    border: 2px solid gray;
+    height: 300px;
+    width: 500px;
+}
+.h1-cstm{
+  text-align: center;
+  color: darkgray;
+  padding-top: 5%;
+  font-family: "Sofia", sans-serif;
+}
